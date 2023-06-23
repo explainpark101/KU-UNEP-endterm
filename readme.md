@@ -68,8 +68,8 @@
 Cilliers, E.J., Timmermans, W., van den Goorbergh, F. et al. Designing public spaces through the lively planning integrative perspective. Environ Dev Sustain 17, 1367–1380 (2015). https://doi.org/10.1007/s10668-014-9610-1
 
 김민선(Kim Min-Seon),and 이제선(Lee Jea-Sun). "중심시가지 내 공공공간의 물리적 환경과 상권 활성화의 관계 - 서울시 신촌동 ‘연세로, 명물거리, 신촌역로, 이화여대길’을 중심으로." 도시설계 : 한국도시설계학회지 22.5 (2021): 35-54.
+https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE10622013
 
-장세훈(CHANG Se Hoon). "중산층 프로젝트로서 ‘분당 만들기’." 지역사회학 18.1 (2017): 5-42.
-
-김민선, 이제선.(2021).중심시가지 내 공공공간의 물리적 환경과 상권 활성화의 관계 - 서울시 신촌동 ‘연세로, 명물거리, 신촌역로, 이화여대길’을 중심으로.한국도시설계학회지 도시설계,22(5),35-54.
+장세훈(CHANG Se Hoon). "중산층 프로젝트로서 ‘분당 만들기’." 지역사회학 18.1 (2017): 5-42. 
+https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002219349
 
